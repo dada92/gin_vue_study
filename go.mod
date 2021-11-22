@@ -3,7 +3,7 @@ module gin_vue_study
 go 1.17
 
 require (
-	github.com/gin-gonic/gin v1.7.3
+	github.com/gin-gonic/gin v1.7.4
 	gorm.io/driver/mysql v1.2.0
 	gorm.io/gorm v1.22.3
 )
